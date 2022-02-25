@@ -1,0 +1,7 @@
+export const GET_RESTURANTS_TAGS = 'GET_RESTURANTS_TAGS';
+export const GET_ALL_RESTURANTS = 'GET_RESTURANTS';
+export const ADD_RESTURANTS = 'ADD_RESTURANTS';
+export const GET_RESTURANT = 'GET_RESTURANT';
+export const LOAD_START = 'LOAD_START';
+export const LOAD_STOP = 'LOAD_STOP';
+export const SELECTED_TAG = 'SELECTED_TAG';

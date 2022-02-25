@@ -1,0 +1,6 @@
+module Pods_rntask {
+  umbrella header "Pods-rntask-umbrella.h"
+
+  export *
+  module * { export * }
+}

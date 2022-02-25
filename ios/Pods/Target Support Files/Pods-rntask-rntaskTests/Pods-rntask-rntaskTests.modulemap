@@ -1,0 +1,6 @@
+module Pods_rntask_rntaskTests {
+  umbrella header "Pods-rntask-rntaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
